@@ -4,7 +4,7 @@
 
  Here's how you can install it.
 
-1. Fork this repo or download the code. 
+1. Clone this repo or download the code. 
 
 2. Open Mailspring  and install the theme by going to `Mailspring > Install New Theme...`
    and selecting the directory.
